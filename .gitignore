@@ -1,0 +1,9 @@
+CMakeFiles/
+cmake_install.cmake
+CmakeCache.txt
+Makefile
+ReportFiles/*
+Project1-report.pdf
+.DS_Store
+startProject
+*.jpg
